@@ -11,4 +11,12 @@ The critical path method (CPM) is a technique where you identify tasks that are 
 
 * If you already have a network matrix, you can input a matrix or a list
 
-* If you do not have one, don't worry, just input a natrual number,we will generate a random project for you
+* If you do not have one, don't worry, just input any natrual number,it will generate a random project for you
+
+* There is a Pytest framwork to test get_EETs,get_LETs,get_TFs,and My_CPM, they are tested through the two networks in lecture notes
+  
+* Run test_functiom.py to start test
+  
+* All functions under the Function folder are with comments
+  
+* The solution to 2.4 is project_network_generater.py
