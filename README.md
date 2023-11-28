@@ -1,5 +1,5 @@
 # Critical-Path-Method
-The critical path method (CPM) is a technique where you identify tasks that are necessary for project completion and determine scheduling flexibilities.'
+The critical path method (CPM) is a technique where you identify tasks that are necessary for project completion and determine scheduling flexibilities.
 
 'A critical path in project management is the longest sequence of activities that must be finished on time in order for the entire project to be complete.' 
 
@@ -19,4 +19,3 @@ The critical path method (CPM) is a technique where you identify tasks that are 
   
 * All functions under the Function folder are with comments
   
-* The solution to 2.4 is project_network_generater.py
